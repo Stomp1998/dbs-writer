@@ -1,0 +1,12 @@
+{
+  "name": "dbs-writer",
+  "version": "1.0.8",
+  "description": "its is writer print your msg in console",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "dbs-writer"
+  ],
+  "author": "stomp1998",
+  "license": "ISC"
+}
